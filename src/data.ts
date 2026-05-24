@@ -3,8 +3,8 @@ export const PERSONAL_INFO = {
   title: 'Frontend Developer & Software Engineer',
   tagline: 'Building responsive, pixel-perfect user interfaces and highly functional React web applications.',
   email: 'sushant.gunisetti@gmail.com',
-  github: 'https://github.com/sushant-gunisetti',
-  linkedin: 'https://linkedin.com/in/sushant-gunisetti',
+  github: 'https://github.com/Sushant8341',
+  linkedin: 'https://www.linkedin.com/in/sushant-g-967ab8318/',
   avatar: '', // Auto-generates high-quality initials when empty
   bio: 'A passionate, self-taught web developer and software engineer specializing in Javascript, React, Tailwind CSS, and modern web architectures. Dedicated to clean coding standards, beautiful layouts, and responsive design systems.',
   currentLocation: 'India',
