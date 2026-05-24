@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio",
+  "description": "An interactive, elegant personal portfolio displaying live projects like task management and e-commerce web applications, and featuring a message board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
